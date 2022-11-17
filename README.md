@@ -1,6 +1,6 @@
 # super-road-to-oscp
 Road to OSCP - by a brazilian 
-<img src="img\flag-brazil_1f1e7-1f1f7.png" style=" height: 22px; width: 22px; text-align: center;"/>
+<img src="img\flag-brazil.png" style=" height: 22px; width: 22px; text-align: center;"/>
 
 
 Repository with all my writups based on the OSCP report format
